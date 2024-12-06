@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About me
+Currently vacuuming space in a parallel universe...
 <!--
 **fnJeff/fnJeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
